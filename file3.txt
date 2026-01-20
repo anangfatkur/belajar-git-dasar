@@ -1,3 +1,4 @@
 ini adalah file3.txt
 seharusnya masing tetap ada baris ke-2
 feature 3
+feature B
